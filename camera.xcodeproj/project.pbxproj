@@ -416,7 +416,7 @@
 				DEVELOPMENT_TEAM = G38HH54347;
 				INFOPLIST_FILE = camera/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.camera;
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.camera.seiya;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -429,7 +429,7 @@
 				DEVELOPMENT_TEAM = G38HH54347;
 				INFOPLIST_FILE = camera/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.camera;
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.camera.seiya;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
